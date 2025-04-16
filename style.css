@@ -67,6 +67,3 @@ body {
     height: 250px;
     background-image: url('./images/weather_app_image.jpg');
 }
-#header_section h1 {
-    margin: auto;
-}
